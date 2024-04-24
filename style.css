@@ -1,0 +1,14 @@
+.btnh{
+    background-color: #75BF7A;
+    border-color: #75BF7A;
+}
+.back-c{
+background-color: #75BF7A;
+}
+@media (min-width: 300px) and (max-width: 576px)
+{
+    .car{
+        width: 100% !important;
+       
+    }
+}
